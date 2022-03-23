@@ -7,4 +7,4 @@ Projects completed throughout the two years of attending the Erasmus Mundus Join
 3. Medical Image Registration and Applications
 4. Medical Image Segmentation and Applications
 
-Contact me or @SkAdilina for any questions!
+Contact me or [@SkAdilina](https://github.com/SkAdilina) for any questions!
